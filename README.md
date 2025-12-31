@@ -1,27 +1,16 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=4000&pause=300&color=C084FC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hai+Everyone!;I'm+Intan+Desi,+an+IT+Student+%E2%9C%A8" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=4000&pause=300&color=B794F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hai+Everyone!;I'm+Intan,+an+IT+Student+%E2%9C%A8" width="70%" />
   <br><br>
 
   I'm an Information Technology student at Brawijaya University with a deep interest in **UI/UX Design** and **Frontend Exploration**. I love creating intuitive interfaces and learning how things work behind the scenes. ✨ Feel free to explore my repositories!
 
-  <div id="badges" style="margin-bottom: 20px;">
-    <a href="https://www.linkedin.com/in/cut-risfa-zuhra-5b2788289/" style="text-decoration: none; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/cutrisfz_/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-  </div>
-</div>
-
 ---
 
-<h1 align="center">Hey 👋What's Up?</h1>
-
 ###
 
-
-###
+<div align="center">
+  
+## 📱 Social Media
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
